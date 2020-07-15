@@ -1,1 +1,1 @@
-<IMG SRC=# onmouseover="alert('xxs')">
+<IMG onmouseover="alert('xxs')">
