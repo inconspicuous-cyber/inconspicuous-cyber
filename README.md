@@ -1,1 +1,1 @@
-<BODY BACKGROUND="javascript:alert('XSS')">
+<IMG SRC='vbscript:msgbox("XSS")'>
