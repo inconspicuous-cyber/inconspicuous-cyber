@@ -1,1 +1,1 @@
-<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC=" &#14;  javascript:alert('XSS');">
