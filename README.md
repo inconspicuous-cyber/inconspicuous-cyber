@@ -1,1 +1,1 @@
-<IMG """><SCRIPT>alert("XSS")</SCRIPT>"\>
+<IMG SRC=# onmouseover="alert('xxs')">
